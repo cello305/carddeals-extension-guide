@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Official_Website-carddeals.co-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carddeals.co)
 [![Chrome Supported](https://img.shields.io/badge/Chrome-Supported-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo)
-[![Edge Supported](https://img.shields.io/badge/Edge-Supported-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/lhpadmkgboajeocdmbcifgclampmjolo)
-[![Firefox Supported](https://img.shields.io/badge/Firefox-Supported-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/savely-carddeals)
+[![Edge Supported](https://img.shields.io/badge/Edge-Supported-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/carddeals-%E2%80%94-discounted-gi/dglbomjbblnbpnokmhjnmehgnffajmfc)
+[![Firefox Supported](https://img.shields.io/badge/Firefox-Supported-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/carddeals/)
 [![Version](https://img.shields.io/badge/Version-v3.0.9-success?style=for-the-badge)](./downloads/)
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](./LICENSE)
 
@@ -30,8 +30,8 @@ Welcome to the official distribution repository and installation guide for the *
 
 ### 🏬 Official Web Store Pages
 * 🟡 **Google Chrome**: [Chrome Web Store Listing](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo)
-* 🔵 **Microsoft Edge**: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/lhpadmkgboajeocdmbcifgclampmjolo)
-* 🦊 **Mozilla Firefox**: [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/savely-carddeals)
+* 🔵 **Microsoft Edge**: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/carddeals-%E2%80%94-discounted-gi/dglbomjbblnbpnokmhjnmehgnffajmfc)
+* 🦊 **Mozilla Firefox**: [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/carddeals/)
 
 ---
 
