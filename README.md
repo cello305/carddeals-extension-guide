@@ -9,9 +9,22 @@
 
 ---
 
-Welcome to the official distribution repository and installation guide for the **CardDeals Browser Extension** (formerly Savely). 
+Welcome to the official distribution repository and installation guide for the **CardDeals Browser Extension** (formerly Savely).
 
 **[CardDeals](https://carddeals.co)** automatically detects when you are shopping online at over 1,000+ top retailers and instantly alerts you to **5% to 15% savings** using discounted gift cards at checkout!
+
+> ⭐ **Love saving with CardDeals? Give this repo a star** and check out the [official website](https://carddeals.co) for the full store directory.
+
+---
+
+## 📸 Screenshots
+
+*Screenshots from the [Chrome Web Store listing](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo).*
+
+| | | |
+| :---: | :---: | :---: |
+| [![Screenshot 1](https://lh3.googleusercontent.com/Q9VbUWjcOo7S8fyaauJ58OJODfvtGcFG0qGG0A9OexfnS0TMenOg9S339WOUqpvgq1mftkRcxKcaLKxgBlfj5zxRadM=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 2](https://lh3.googleusercontent.com/5ItczvZF5bM7XIr3QVZf8dfbwa3YU7OQs6uWL8LMmaTjU8kwI3WGuqyvor0gE6vySPglIWdEkTMdbHOBqIx00mlU-A=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 3](https://lh3.googleusercontent.com/93ey_WYQsI8cLtozDtUk1NV5mvItWYXMrkoo0T9WK349l0MyM9KD_wKVLv9PlCohJgEuHgRRG0NKpv-HBbe09fK29g=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) |
+| [![Screenshot 4](https://lh3.googleusercontent.com/1N14JWqddWHS6Q4uScG-RZ01taCOdtRwLFPZF8gwjVEuXZRXsnKnDvz5pAP82tlPAWpY5q_HcQrjiQTdibOn_9LsUQ=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 5](https://lh3.googleusercontent.com/Nkkfy-Vcrrq526gmtmlwM0kV-nGdk755wc5TpsqmQ9NdrbGJgpz5eWSkiAK8TDC42_vgLo1211yrESfi37EwOzM4=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 6](https://lh3.googleusercontent.com/Bzqw2uhfRmKoQH2j9_MlMPg9sBoKYsQC2hCzXtJKNn7mP1OFTTK_ZSjchfNBH8TT6D4Ws9SxrDMl_U17cmVM-aTs-A=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) |
 
 ---
 
@@ -29,9 +42,12 @@ Welcome to the official distribution repository and installation guide for the *
   * [Airbnb Discounts](https://carddeals.co/brand/airbnb)
 
 ### 🏬 Official Web Store Pages
-* 🟡 **Google Chrome**: [Chrome Web Store Listing](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo)
-* 🔵 **Microsoft Edge**: [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/carddeals-%E2%80%94-discounted-gi/dglbomjbblnbpnokmhjnmehgnffajmfc)
-* 🦊 **Mozilla Firefox**: [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/carddeals/)
+
+| Browser | Official Listing |
+| :--- | :--- |
+| 🟡 **Google Chrome** | [Chrome Web Store Listing](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) |
+| 🔵 **Microsoft Edge** | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/carddeals-%E2%80%94-discounted-gi/dglbomjbblnbpnokmhjnmehgnffajmfc) |
+| 🦊 **Mozilla Firefox** | [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/carddeals/) |
 
 ---
 
@@ -123,5 +139,6 @@ For complete terms and privacy details, visit [https://carddeals.co](https://car
 ## 📬 Support & Inquiries
 
 * 📧 **Email Support**: [support@carddeals.co](mailto:support@carddeals.co)
+* 🐛 **Report an Issue**: [Open a GitHub Issue](https://github.com/cello305/carddeals-extension-guide/issues)
 * 🌐 **Official Website**: [https://carddeals.co](https://carddeals.co)
 * 🛒 **Browse Discounts**: [https://carddeals.co/brands](https://carddeals.co/brands)
