@@ -17,17 +17,6 @@ Welcome to the official distribution repository and installation guide for the *
 
 ---
 
-## 📸 Screenshots
-
-*Screenshots from the [Chrome Web Store listing](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo).*
-
-| | | |
-| :---: | :---: | :---: |
-| [![Screenshot 1](https://lh3.googleusercontent.com/Q9VbUWjcOo7S8fyaauJ58OJODfvtGcFG0qGG0A9OexfnS0TMenOg9S339WOUqpvgq1mftkRcxKcaLKxgBlfj5zxRadM=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 2](https://lh3.googleusercontent.com/5ItczvZF5bM7XIr3QVZf8dfbwa3YU7OQs6uWL8LMmaTjU8kwI3WGuqyvor0gE6vySPglIWdEkTMdbHOBqIx00mlU-A=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 3](https://lh3.googleusercontent.com/93ey_WYQsI8cLtozDtUk1NV5mvItWYXMrkoo0T9WK349l0MyM9KD_wKVLv9PlCohJgEuHgRRG0NKpv-HBbe09fK29g=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) |
-| [![Screenshot 4](https://lh3.googleusercontent.com/1N14JWqddWHS6Q4uScG-RZ01taCOdtRwLFPZF8gwjVEuXZRXsnKnDvz5pAP82tlPAWpY5q_HcQrjiQTdibOn_9LsUQ=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 5](https://lh3.googleusercontent.com/Nkkfy-Vcrrq526gmtmlwM0kV-nGdk755wc5TpsqmQ9NdrbGJgpz5eWSkiAK8TDC42_vgLo1211yrESfi37EwOzM4=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![Screenshot 6](https://lh3.googleusercontent.com/Bzqw2uhfRmKoQH2j9_MlMPg9sBoKYsQC2hCzXtJKNn7mP1OFTTK_ZSjchfNBH8TT6D4Ws9SxrDMl_U17cmVM-aTs-A=w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) |
-
----
-
 ## 🔗 Quick Links & Official Stores
 
 * 🌐 **Official Website**: [https://carddeals.co](https://carddeals.co)
