@@ -17,6 +17,16 @@ Welcome to the official distribution repository and installation guide for the *
 
 ---
 
+## 📸 Screenshots
+
+*Screenshots from the [Chrome Web Store listing](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo).*
+
+| | | |
+| :---: | :---: | :---: |
+| [![CardDeals screenshot 1](https://lh3.googleusercontent.com/jHsoHjRuGHIekaGCBMGjKZDoJksgecdSh1hK0Y8ey7tUqTkgzIplCAZ0gsJR79ye_H1fTvfLhAN1itfxf9FKUs3I13w=s1280-w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![CardDeals screenshot 2](https://lh3.googleusercontent.com/q-W5cDWhF40E8jzbV0LGvsuO3XMUGcc4APtO87Z5Y0icGx0nIphPG_kg8HgpFErZBmHgTRlqF2ggMniqm2zTQB1TjdA=s1280-w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | [![CardDeals screenshot 3](https://lh3.googleusercontent.com/2yCIb6aH9gUcorGvcMxiYlqchrNMvMWFCKOGavAhgsy5pwapoWKFSPrabc8PgSq5Lvo8O8ELWPJ63vN1nBGlaekGA_I=s1280-w1280-h800)](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) |
+
+---
+
 ## 🔗 Quick Links & Official Stores
 
 * 🌐 **Official Website**: [https://carddeals.co](https://carddeals.co)
@@ -102,6 +112,19 @@ If you prefer to install CardDeals manually or if standard extension store acces
 
 ---
 
+### 4️⃣ Brave Browser & Brave Search (Official Goggle)
+
+If you use **Brave Browser** or **Brave Search**, you can enable the official CardDeals Search Goggle to prioritize verified discount gift cards and stacking hacks across your search queries.
+
+* **Goggle File**: [`discount-gift-cards.goggle`](./discount-gift-cards.goggle)
+* **Raw Goggle URL**: `https://raw.githubusercontent.com/cello305/carddeals-extension-guide/main/discount-gift-cards.goggle`
+* **How to Enable**:
+  1. Open [search.brave.com](https://search.brave.com).
+  2. Run any search and click the **Goggles** tab beneath the search box.
+  3. Select **Follow Goggle** and paste the Raw Goggle URL above.
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is this extension safe to install?
@@ -128,6 +151,6 @@ For complete terms and privacy details, visit [https://carddeals.co](https://car
 ## 📬 Support & Inquiries
 
 * 📧 **Email Support**: [support@carddeals.co](mailto:support@carddeals.co)
-* 🐛 **Report an Issue**: [Open a GitHub Issue](https://github.com/cello305/carddeals-extension-guide/issues)
+* 🐛 **Report an Issue**: [Open a GitHub Issue](https://github.com/CardDeals/carddeals.co-extension-guide/issues)
 * 🌐 **Official Website**: [https://carddeals.co](https://carddeals.co)
 * 🛒 **Browse Discounts**: [https://carddeals.co/brands](https://carddeals.co/brands)
