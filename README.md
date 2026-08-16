@@ -112,19 +112,6 @@ If you prefer to install CardDeals manually or if standard extension store acces
 
 ---
 
-### 4️⃣ Brave Browser & Brave Search (Official Goggle)
-
-If you use **Brave Browser** or **Brave Search**, you can enable the official CardDeals Search Goggle to prioritize verified discount gift cards and stacking hacks across your search queries.
-
-* **Goggle File**: [`discount-gift-cards.goggle`](./discount-gift-cards.goggle)
-* **Raw Goggle URL**: `https://raw.githubusercontent.com/cello305/carddeals-extension-guide/main/discount-gift-cards.goggle`
-* **How to Enable**:
-  1. Open [search.brave.com](https://search.brave.com).
-  2. Run any search and click the **Goggles** tab beneath the search box.
-  3. Select **Follow Goggle** and paste the Raw Goggle URL above.
-
----
-
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is this extension safe to install?
